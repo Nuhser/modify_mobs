@@ -1,8 +1,5 @@
-#
-# Desc.: Disables modify_mobs
-# Called By: #nuhser_core:uninstall
-# @s: <SERVER>
-#
+#> Disables modify_mobs
+# Called By: #nuhser_core:uninstall <SERVER>
 
 #disable modify_mobs
 tellraw @a ["",{"text":"Uninstall Modify Mobs...","color":"yellow"}]
