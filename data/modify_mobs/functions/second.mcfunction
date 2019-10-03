@@ -1,8 +1,5 @@
-#
-# Desc.: Modifies mobs by renaming them with a nametag.
-# Called By: #nuhser_core:second
-# @s: <SERVER>
-#
+#> Modifies mobs by renaming them with a nametag.
+# Called By: #nuhser_core:second <SERVER>
 
 #mute mobs
 data merge entity @e[nbt={CustomName:"{\"text\":\"!silent\"}"},limit=1] {CustomName:"", Silent:1b}
