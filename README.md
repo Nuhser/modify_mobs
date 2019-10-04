@@ -1,10 +1,12 @@
 # Modify Mobs
+
 ### by Nuhser
+
 <br>
 
 **Requires [nuhser_core](https://github.com/Nuhser/nuhser_core "Nuhser_Core") to be installed first!**
 
-With this mod, you can modify mobs by renaming them with a name tag, for example, to mute them. the following names are possible:
+With this mod, you can modify mobs by renaming them with a name tag, for example, to mute them. The following names are possible:
 
 To mute a mob you can rename it to `!silent`. Naming it `!not silent` will unmute it again.
 
