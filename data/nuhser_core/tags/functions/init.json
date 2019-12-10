@@ -1,6 +1,6 @@
 {
   "replace": false,
   "values": [
-    "modify_mobs:init"
+    "modify_mobs:_init"
   ]
 }
